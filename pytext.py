@@ -109,7 +109,7 @@ def main():
     special = "~`!@#$%^&*<br>()_-+={}[]|\<br>:;\'\"<>/?"
     displayText(special, "\u2593")
 
-    custom = "100% $100.00<br>jack & jill<br>#python<br>\"Quote me\"<br> No! No!"
+    custom = "100% $100.00<br>jack & jill<br>#python<br>\"Quote me\""
     displayText(custom, "#")
 
 if __name__ == "__main__":
